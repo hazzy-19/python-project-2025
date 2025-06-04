@@ -1,2 +1,2 @@
 # python-project-2025
-All my tailwindrelated projects
+All my python related projects
